@@ -1,0 +1,12 @@
+fastapi
+uvicorn
+sqlalchemy
+passlib
+bcrypt==3.1.7
+python-jose
+python-multipart
+nselib
+jugaad-data
+bs4
+aiomysql
+pytube
